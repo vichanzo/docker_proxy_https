@@ -78,6 +78,9 @@ Problem
 $ sudo systemctl restart docker
 ```
 
+```
+$ sudo systemctl daemon-reload
+```
 
 ```
 $ curl https://raw.githubusercontent.com/alexta69/metube/master/Dockerfile
